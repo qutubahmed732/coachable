@@ -16,7 +16,5 @@ export {
     Purchasesection,
     Discountsection,
     Guaranteesection,
-    Footer,
-    Mainpage,
-    Thankyoupage
+    Footer
 }
