@@ -23,8 +23,6 @@ function Mainpage() {
             return () => window.removeEventListener("resize", handleResize);
         }
         handleResize();
-
-        document.title = "Coachable";
     }, []);
 
     const subscriptionHandler = (e) => {

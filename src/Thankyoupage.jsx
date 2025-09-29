@@ -1,4 +1,3 @@
-import React, { useEffect } from 'react'
 import {
     Herosection,
     Secondsection,
@@ -10,10 +9,6 @@ import {
 } from "./index.js";
 
 function Thankyoupage() {
-
-    useEffect(() => {
-        document.title = "Thank You";
-    }, [])
 
     return (
         <>
