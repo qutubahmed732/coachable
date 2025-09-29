@@ -8,7 +8,7 @@ import { useNavigate } from "react-router-dom";
 
 function Mainpage() {
     const [image, setImage] = useState(Background)
-    const [email, setEmail] = useState(undefined)
+    const [email, setEmail] = useState(null)
     const navigate = useNavigate();
 
     useEffect(() => {
