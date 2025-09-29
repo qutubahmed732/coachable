@@ -1,5 +1,5 @@
-import MainPage from "../src/components/Mainpage.jsx";
-import Thankyoupage from "../src/components/Thankyoupage.jsx";
+import MainPage from "./Mainpage.jsx";
+import Thankyoupage from "./Thankyoupage.jsx";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {

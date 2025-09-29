@@ -1,8 +1,8 @@
-import logo from "../assets/Company_logo.png"
-import Tick from "../assets/Tick_mark.png"
+import logo from "./assets/Company_logo.png"
+import Tick from "./assets/Tick_mark.png"
 import { Star } from "lucide-react"
-import Background from "../assets/desktop/Background.jpg";
-import mobileBackground from "../assets/mobile/Background-small.jpg";
+import Background from "./assets/desktop/Background.jpg";
+import mobileBackground from "./assets/mobile/Background-small.jpg";
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 

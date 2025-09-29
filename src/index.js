@@ -5,8 +5,6 @@ import Purchasesection from "./components/Purchasesection";
 import Discountsection from "./components/Discountsection";
 import Guaranteesection from "./components/Guaranteesection";
 import Footer from "./components/footer";
-import Mainpage from "./components/Mainpage";
-import Thankyoupage from "./components/Thankyoupage";
 
 
 export {

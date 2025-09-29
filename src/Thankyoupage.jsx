@@ -7,7 +7,7 @@ import {
     Discountsection,
     Guaranteesection,
     Footer
-} from "../index.js";
+} from "./index.js";
 
 function Thankyoupage() {
 
